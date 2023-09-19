@@ -1,0 +1,63 @@
+오후 5:29 2023-09-19
+
+
+##링크만들기 (a태그)
+기술소개
+기본문법
+하이퍼텍스트와 속성-----<a.html> 
+
+## 그룹만들기
+태그의 중첩과 목록---<ul><ol><li>
+
+##기본구조
+문서의 구조---<head><title>
+
+##Document type decolation
+DOCTYPE
+
+##웹링크만들기
+웹사이트 만들기
+개발도구---atom. emmet.
+
+##html태그 리스트
+HTML의 변천사와 통계
+
+##주요태그
+단락 - p
+줄바꿈 - br
+이미지 - img
+표 - table
+입력양식 - form
+텍스트 입력
+
+##버튼만들기
+
+선택
+버튼
+
+##데이트보낼때
+
+데이터 전송 - hidden
+컨트롤의 제목 - label
+method
+파일 업로드
+정보로서의 HTML
+글꼴 - font (퇴출됨)
+meta
+
+##문서비디오삽입
+
+의미론적 태그
+검색엔진 최적화
+웹개발자도구
+모바일 지원 (viewport)
+외부문서삽입 - iframe
+HTML5
+비디오 - video
+Can I use
+
+##html속성 
+
+HTML5의 입력양식
+HTML5 입력양식의 속성들
+HTML5 입력 값 체크
